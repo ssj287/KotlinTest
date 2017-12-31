@@ -165,7 +165,7 @@ fun main(args: Array<String>) {
         println(s3[i])
     }
     foo();
-    foo1()
+    foo1();
     //创建类的实例
 //    val customer =Customer("dasda","adasd")
 //    var counter=0
